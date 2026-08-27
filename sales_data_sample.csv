@@ -1,0 +1,16 @@
+Order_ID,Date,Product,Category,Quantity,Unit_Price,Salesperson,Region,Payment_Method,Total_Sales
+1001,2026-01-05,Laptop,Electronics,2,55000,Amit,West,UPI,110000
+wth,Card,7000
+1003,2026-01-10,Keyboard,Accessories,5,1200,Rahul,South,UPI,6000
+1004,2026-01-12,Monitor,Electronics,3,15000,Sneha,West,Card,45000
+1005,2026-01-15,Laptop,Electronics,1,62000,Amit,East,Bank Transfer,62000
+1006,2026-01-18,Headphones,Accessories,8,2500,Priya,North,UPI,20000
+1007,2026-01-20,Mouse,Accessories,15,650,Rahul,South,Cash,9750
+1008,2026-01-23,Monitor,Electronics,2,14500,Sneha,West,Card,29000
+1009,2026-01-25,Keyboard,Accessories,7,1100,Amit,East,UPI,7700
+1010,2026-01-28,Laptop,Electronics,3,58000,Priya,North,Bank Transfer,174000
+1011,2026-02-02,Headphones,Accessories,6,2200,Rahul,South,Card,13200
+1012,2026-02-05,Laptop,Electronics,2,60000,Sneha,West,UPI,120000
+1013,2026-02-08,Mouse,Accessories,20,600,Amit,East,Cash,12000
+1014,2026-02-12,Monitor,Electronics,4,16000,Priya,North,Card,64000
+1015,2026-02-15,Keyboard,Accessories,10,1250,Rahul,South,UPI,12500
